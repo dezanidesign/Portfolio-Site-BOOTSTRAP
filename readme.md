@@ -5,3 +5,5 @@ Went similar but not completely same as original portfolio site, began to discov
 Also found making the page responsive much easier with Bootstrap.
 
 Still need to familiraise myself with more of bootstrap, begin to memorise through practice. Potential to create sites quickly is quite exciting.
+
+Plan to commit more with following projects.
