@@ -1,0 +1,76 @@
+a{
+    color: white !important;
+}
+
+ul{
+text-align: right !important;
+}
+
+.jumbotron.jumbotron-fluid{
+    background-color: transparent !important;
+    color: white;
+    margin-top: 70px;
+    
+    
+}
+
+.container{
+    font-size: 1rem !important;
+    font-family: sans-serif;
+    font-weight: bolder !important;
+    text-align: center;
+
+}
+
+.underline{
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 30px;
+      }
+
+      .spacing{
+        margin-top: 37.5px;
+      }
+
+body{
+    background-image: url(../images/Bubble_Background.jpg);
+    background-size: cover;
+    
+}
+
+h1 {
+    font-size: 6rem !important;
+    line-height: 90px !important; 
+}
+
+h2 {
+    color: white !important;
+}
+
+.text{
+    display: inline-block;
+    text-align: left;
+   
+
+}
+
+.card.text-center{
+    background-color: transparent !important;
+    color: white !important;
+    margin-top: 50px;
+}
+
+.mb-4 div{
+    color: white !important;
+}
+
+p{
+    color: white !important;  
+}
+
+.margin{
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+    margin-top: 65px !important;
+}
